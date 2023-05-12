@@ -1,0 +1,3 @@
+Here is the plan for the project:
+
+Prompt input for Two numbers, Do basic arithmatic operations with and slowly refactor the code to make it the best version possible
